@@ -10,7 +10,7 @@ En aquests casos, el problema moltes vegades és degut a que l'assentament s'ha 
 
 Us proposem doncs el següent flux com a bona pràctica, per tal d'evitar aquests errors:
 
-#1 Si després de `n` intents, no podeu fer la descàrrega de la documentació associada a un assentament del vostre *Registre Principal*, haureu de realitzar un petició `MUX_CONSULTA` d'aquell número d'assentament pel qual no trobeu la documentació. Les dades específiques d'aquesta petició haurien de tenir la següent forma:
+1. Si després de `n` intents, no podeu fer la descàrrega de la documentació associada a un assentament del vostre *Registre Principal*, haureu de realitzar un petició `MUX_CONSULTA` d'aquell número d'assentament pel qual no trobeu la documentació. Les dades específiques d'aquesta petició haurien de tenir la següent forma:
 
 ```xml
 <DatosEspecificos>
@@ -22,9 +22,9 @@ Us proposem doncs el següent flux com a bona pràctica, per tal d'evitar aquest
 </DatosEspecificos>
 ```
 
-#2 Si la consulta retorna dades per aquell assentament, seguir amb la política de reintents que tingueu desenvolupada per a la descàrrega d'aquell número d'assentament del vostre *Registre Principal*, i no caldria realitzar cap acció addicional.
+2. Si la consulta retorna dades per aquell assentament, seguir amb la política de reintents que tingueu desenvolupada per a la descàrrega d'aquell número d'assentament del vostre *Registre Principal*, i no caldria realitzar cap acció addicional.
 
-#3 Si per el contrari la consulta, no retorna dades, és a dir, teniu una resposta del registre amb la següent forma:
+3. Si per el contrari la consulta, no retorna dades, és a dir, teniu una resposta del registre amb la següent forma:
 
 ```xml
 <DatosEspecificos>
