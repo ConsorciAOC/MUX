@@ -10,7 +10,7 @@ En aquests casos, el problema moltes vegades és degut a que l'assentament s'ha 
 
 Us proposem doncs el següent flux com a bona pràctica, per tal d'evitar aquests errors:
 
-1. Si després de `n` intents, no podeu fer la descàrrega de la documentació associada a un assentament del vostre *Registre Principal*, haureu de realitzar un petició `MUX_CONSULTA` d'aquell número d'assentament pel qual no trobeu la documentació. Les dades específiques d'aquesta petició haurien de tenir la següent forma:
+1. Si després de `n` intents, no podeu fer la descàrrega de la documentació associada a un assentament del vostre *Registre Principal*, haureu de realitzar una petició `MUX_CONSULTA` d'aquell número d'assentament pel qual no trobeu la documentació. Les dades específiques d'aquesta petició haurien de tenir la següent forma:
 
 ```xml
 <DatosEspecificos>
@@ -35,7 +35,7 @@ Us proposem doncs el següent flux com a bona pràctica, per tal d'evitar aquest
 </DatosEspecificos>
 ```
 
-Vol dir que aquell assentament no és el correcte i s'ha de trobar l'assentament auxiliar corresponent, i consolidar-lo al vostre aplicatiu. Com ja sabeu, aquesta tasca la podeu fer amb un petició `MUX_CONSULTA` per franja horària i indicant que només mostri els assentaments que han anat a parar al *Registre Auxiliar*. Les dades específiques d'aquesta petició haurien de tenir la següent forma:
+Vol dir que aquell assentament no és el correcte i s'ha de trobar l'assentament auxiliar corresponent, i consolidar-lo al vostre aplicatiu. Com ja sabeu, aquesta tasca la podeu fer amb una petició `MUX_CONSULTA` per franja horària i indicant que només mostri els assentaments que han anat a parar al *Registre Auxiliar*. Les dades específiques d'aquesta petició haurien de tenir la següent forma:
 
 ```xml
 <DatosEspecificos>
