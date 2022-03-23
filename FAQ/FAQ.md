@@ -4,9 +4,9 @@ En aquesta plana pretenem fer un recull de dubtes i errors més freqüents en le
 
 # Errors en la descàrrega de la documentació associada a un assentament
 
-En ocasions succeeix una casuística on un assentament amb numeració del *Registre Principal*, no disposa de la documentació per a descarregar. 
+En ocasions succeeix una casuística on un assentament amb numeració del vostre *Registre Principal*, no disposa de la documentació per a descarregar. 
 
-En aquests casos, el problema moltes vegades és degut a que l'assentament s'ha realitzat al *Registre Auxiliar*. Per tant seria necessari revisar que veritablement aquest assentament no existeixi i que tingui relacionat un assentament al *Registre Auxiliar* d'EACAT (amb la corresponent numeració típica d'EACAT `[E/XXXXXX-2022 o S/XXXXXX-2022]`); si és així, la descàrrega de la documentació associada a aquest assentament, s'ha de fer a partir del número del *Registre Auxiliar*.
+En aquests casos, el problema moltes vegades és degut a que l'assentament s'ha realitzat al *Registre Auxiliar*. Per tant seria necessari revisar que veritablement aquest assentament no existeixi i que tingui relacionat un assentament al *Registre Auxiliar* d'EACAT (amb la corresponent numeració típica d'EACAT `[E/XXXXXX-2022 o S/XXXXXX-2022]`) si és així, la descàrrega de la documentació associada a aquest assentament, s'ha de fer a partir del número del *Registre Auxiliar*.
 
 Us proposem doncs el següent flux com a bona pràctica, per tal d'evitar aquests errors:
 
