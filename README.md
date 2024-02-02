@@ -3756,6 +3756,12 @@ A continuació és mostra un exemple de bloc _Assentaments_
     
 ### 3.2.6 Bloc _Rebuts_
 
+---
+
+![image](https://user-images.githubusercontent.com/32306731/137281698-9dfc2044-94f7-487f-a7d6-9a4e0707feb3.png)  Els serveis AOC que generen rebuts són els que s'indiquen a la FAQ: https://suport-registreuniificat.aoc.cat/hc/ca/articles/8359102824861-Quina-documentaci%C3%B3-puc-visualitzar-descarregar-dels-assentaments-generats-pel-servei-MUX
+
+---
+
 Aquest bloc conté els identificadors dels documents (UUID) que constitueixen els rebuts o justificants (en format PDF) generats pel servei o aplicació que llança l'assentament.
 
 Aquests documents de rebut son generats amb posterioritat a la realització de l'assentament, pel que aquesta informació no viatjarà dins de la petició cap al registre electrònic, si no que quedarà registrada a la transacció per poder ser consultada amb posterioritat pel registre.
