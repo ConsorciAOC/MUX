@@ -10,7 +10,7 @@ Registre unificat d’assentaments d’entrada i sortida
    - [2.1 Connectivitat](#2.1)
    - [2.2 Autenticació i autorització](#2.2)
 - [3 Transacció de MUXv3](#3)
-   - [3.1 ntroducció](#3.1)
+   - [3.1 Introducció](#3.1)
    - [3.2 Blocs que formen la transacció](#3.2)
 - [4 Operacions](#4)
    - [4.1 Operacions disponibles](#4.1)
