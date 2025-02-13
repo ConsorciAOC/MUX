@@ -3758,7 +3758,7 @@ A continuació és mostra un exemple de bloc _Assentaments_
 
 ---
 
-![image](https://user-images.githubusercontent.com/32306731/137281698-9dfc2044-94f7-487f-a7d6-9a4e0707feb3.png)  Els serveis AOC que generen rebuts són els que s'indiquen a la FAQ: https://suport-registreuniificat.aoc.cat/hc/ca/articles/8359102824861-Quina-documentaci%C3%B3-puc-visualitzar-descarregar-dels-assentaments-generats-pel-servei-MUX
+![image](https://user-images.githubusercontent.com/32306731/137281698-9dfc2044-94f7-487f-a7d6-9a4e0707feb3.png)  Els serveis AOC que generen rebuts són els que s'indiquen a la FAQ: https://suport-registreunificat.aoc.cat/hc/ca/articles/8359102824861-Quina-documentaci%C3%B3-puc-visualitzar-descarregar-dels-assentaments-generats-pel-servei-MUX
 
 ---
 
