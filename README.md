@@ -10,4 +10,4 @@ Aquest repository anarirà recopilant la documentació tècnica i d'integració 
 
 Documentació específica del servei Registre Unificat (MUX) V3:
 
-[1. Guia d'integració](Missatgeria/DI - MUXV3.pdf)
+[1. Guia d'integració](https://github.com/ConsorciAOC/MUX/blob/main/Missatgeria/DI%20-%20MUXV3.pdf)
